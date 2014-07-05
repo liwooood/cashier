@@ -16,8 +16,8 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.0.5.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-context:4.0.5.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.0.5.RELEASE" />
-          <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.5" />
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.0.5.RELEASE" />
+          <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.5" />
           <element id="library" level="project" name="Maven: com.netflix.curator:curator-framework:1.1.10" />
           <element id="library" level="project" name="Maven: com.netflix.curator:curator-client:1.1.10" />
           <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.6.3" />
